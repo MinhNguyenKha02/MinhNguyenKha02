@@ -81,16 +81,16 @@ Feel free to connect and discuss full-stack technologies, logistics solutions, o
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/MinhNguyenKha02" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/github-%23121011.svg?style=Social&logo=github&logoColor=white style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/minh-nguyen-kha" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/linkedin-%230077B5.svg?style=Social&logo=linkedin&logoColor=white style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.facebook.com/minhnguyen.kha2" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Facebook-%231877F2.svg?style=Social&logo=Facebook&logoColor=white style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/jamenguyen.m" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Instagram-%23E4405F.svg?style=Social&logo=Instagram&logoColor=white style="margin-bottom: 5px;" />
 </a> 
 <a href="mailto:jamenguyen.957@gmail.com" target="_blank">
   <img src=https://img.shields.io/badge/Gmail-D14836?style=Social&logo=gmail&logoColor=white style="margin-bottom: 5px;" />
