@@ -91,5 +91,11 @@ Feel free to connect and discuss full-stack technologies, logistics solutions, o
 </a>
 <a href="https://instagram.com/jamenguyen.m" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+</a> 
+<a href="mailto:jamenguyen.957@gmail.com" target="_blank">
+  <img src=https://img.shields.io/badge/Gmail-D14836?style=Social&logo=gmail&logoColor=white style="margin-bottom: 5px;" />
+</a>
+<a href="mailto:minhnguyen.kha@proton.me" target="_blank">
+  <img src=https://img.shields.io/badge/ProtonMail-8B89CC?style=Social&logo=protonmail&logoColor=white style="margin-bottom: 5px;" />
+</a> 
 </div>  
