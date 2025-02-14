@@ -1,7 +1,7 @@
 # Hello! 👋  
   
 
-I'm Jame, a full-stack developer since 2024 🧑‍💻.
+I'm James, a full-stack developer since 2024 🧑‍💻.
 Currently a remote intern at GoLiveDev JSC, specializing in Nuxt, Vue, and Supabase, PostgreSQL  
   
 
